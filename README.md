@@ -14,7 +14,7 @@ To re-implement the model in the paper, please follow the bellow steps.
 3. Whu-Mix-Vector dataset
    Download the dataset at http://gpcv.whu.edu.cn/data/whu-mix%20(vector)/whu_mix(vector).html
 
-   Unzip and place the dataset in your data folder, and modify the configuration file in config/_base_/whu_mix_vector accordingly just like CrowdAI dataset.
+   Unzip four downloaded files: "train.zip" "val set.zip", "test set 1.zip" and "test set 2.zip" and place them in your data folder. Then modify the configuration file in config/_base_/whu_mix_vector accordingly just like CrowdAI dataset.
 
 ## Test with the provided model weights
 
