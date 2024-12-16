@@ -12,7 +12,7 @@ To re-implement the model in the paper, please follow the bellow steps.
    Make sure that in train, val and test dataloader settings in line 62, 79 and 96, data_root + ann_file and correctly locate your annotation file, and data_root + data_prefix and locate your image folder.
    
 3. Whu-Mix-Vector dataset
-   Download the dataset at
+   Download the dataset at http://gpcv.whu.edu.cn/data/whu-mix%20(vector)/whu_mix(vector).html
 
    Unzip and place the dataset in your data folder, and modify the configuration file in config/_base_/whu_mix_vector accordingly just like CrowdAI dataset.
 
