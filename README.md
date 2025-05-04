@@ -1,7 +1,7 @@
 Official Implementation of "Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing"
 To re-implement the model in the paper, please follow the bellow steps.
 
-[flowchart (1).pdf](https://github.com/user-attachments/files/20027358/flowchart.1.pdf)
+<img src="./figures/flowchart.png" alt="Flowchart of GCP">
 
 ## Datasets preparation
 1. Crowd AI dataset
