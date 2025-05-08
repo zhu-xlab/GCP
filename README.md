@@ -1,4 +1,4 @@
-Official Implementation of "Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing"
+Official Implementation of Zhang, Fahong, Yilei Shi, and Xiao Xiang Zhu. "Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing." arXiv preprint arXiv:2505.01385 (2025).
 To re-implement the model in the paper, please follow the bellow steps.
 
 <img src="./figures/flowchart.png" alt="Flowchart of GCP">
